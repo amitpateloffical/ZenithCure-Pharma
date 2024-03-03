@@ -55,11 +55,11 @@ export default function GxpTrainig() {
           <div className="row g-5 align-items-center">
             <div className="col-lg-5 wow fadeIn" data-wow-delay="0.1s">
               <div className="abouts" data-aos="fade-right" >
-                <img className="img-fluid" src="/ebmr2.jpg" />
+                <img className="img-fluid" src="https://img.freepik.com/premium-photo/professional-doctor-scientist-looking-computer-analysing-dna-image-scan_482257-8405.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
               </div>
             </div>
             <div className="col-lg-7 wow fadeIn" data-wow-delay="0.5s">
-              <h4 className="mb-4 " data-aos="fade-left">At Mediva, science is embedded in our ethos, as we wholeheartedly embrace Research and Development (R&D) as an essential component of our sustainable business strategy. Over the decades, we have invested strongly and strategically in cutting-edge technological advancements and innovative research activities.</h4>
+              <h4 className="mb-4 " data-aos="fade-left">At our core, we are trailblazers in pharmaceutical manufacturing, setting new standards in quality, innovation, and sustainability. With our cutting-edge technology and unwavering commitment, we are dedicated to producing medicines that improve and save lives. Join us in our mission to transform healthcare and deliver excellence in pharmaceutical manufacturing.</h4>
               {/* <div className="content_container"> */}
                 {/* <ul className="list-group"
                   ref={(ref) => listRefs.current.push(ref)}
@@ -97,11 +97,11 @@ export default function GxpTrainig() {
         <div className="container" style={{background:"#AFEEEE",paddingLeft:"20px", paddingTop:"30px", paddingBottom:"30px", borderLeft:"4px solid green"}}>
           <div className="row align-items-center g-5">
             <div className="col-lg-9  wow fadeIn" data-wow-delay="0.5s" style={{fontSize: "19px", fontWeight: "500"}}>
-            Our team thrives in an environment conducive to excellence and innovation, which is critical to advancing complex and challenging first-time combination products. The R&D team actively engages in projects from concept to Phase IV studies, as well as monitoring market acceptance and post-launch status for comprehensive insights.
+            With a relentless focus on innovation and quality, our pharmaceutical manufacturing sets new benchmarks in precision and excellence. Utilizing advanced technology and industry-leading expertise, we create medicines that redefine healthcare. Our commitment to sustainability ensures that every dose is not only effective but also environmentally conscious. Join us in shaping the future of pharmaceutical manufacturing, one breakthrough at a time.
             </div>
             <div className="col-lg-3 wow fadeIn" data-wow-delay="0.1s">
             <div className="h-75 w-75 " data-aos="fade-right" >
-                <img className="img-fluid  rounded" src="/ebmr2.jpg" />
+                <img className="img-fluid  rounded" src="https://img.freepik.com/premium-photo/professional-doctor-scientist-looking-computer-analysing-dna-image-scan_482257-8405.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
               </div>
             </div>
           </div>
